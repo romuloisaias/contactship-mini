@@ -1,0 +1,255 @@
+2026-01-15T14:01:58.001-03:00 [INFO] [NestFactory] Starting Nest application... 
+2026-01-15T14:01:58.018-03:00 [INFO] [InstanceLoader] AppModule dependencies initialized 
+2026-01-15T14:01:58.019-03:00 [INFO] [InstanceLoader] TypeOrmModule dependencies initialized 
+2026-01-15T14:01:58.019-03:00 [INFO] [InstanceLoader] ConfigHostModule dependencies initialized 
+2026-01-15T14:01:58.020-03:00 [INFO] [InstanceLoader] HttpModule dependencies initialized 
+2026-01-15T14:01:58.021-03:00 [INFO] [InstanceLoader] DiscoveryModule dependencies initialized 
+2026-01-15T14:01:58.032-03:00 [INFO] [InstanceLoader] ConfigModule dependencies initialized 
+2026-01-15T14:01:58.032-03:00 [INFO] [InstanceLoader] ConfigModule dependencies initialized 
+2026-01-15T14:01:58.033-03:00 [INFO] [InstanceLoader] ScheduleModule dependencies initialized 
+2026-01-15T14:01:58.056-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:01:58.056-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:01:58.059-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:01:58.069-03:00 [INFO] [InstanceLoader] CacheModule dependencies initialized 
+2026-01-15T14:01:58.176-03:00 [INFO] [InstanceLoader] TypeOrmCoreModule dependencies initialized 
+2026-01-15T14:01:58.176-03:00 [INFO] [InstanceLoader] TypeOrmModule dependencies initialized 
+2026-01-15T14:01:58.178-03:00 [INFO] [InstanceLoader] LeadsModule dependencies initialized 
+2026-01-15T14:01:58.197-03:00 [INFO] [RoutesResolver] LeadsController {/leads}: 
+2026-01-15T14:01:58.200-03:00 [INFO] [RouterExplorer] Mapped {/leads/create-lead, POST} route 
+2026-01-15T14:01:58.201-03:00 [INFO] [RouterExplorer] Mapped {/leads, GET} route 
+2026-01-15T14:01:58.202-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id, GET} route 
+2026-01-15T14:01:58.202-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id/summarize, POST} route 
+2026-01-15T14:01:58.222-03:00 [INFO] [NestApplication] Nest application successfully started 
+2026-01-15T14:08:37.487-03:00 [INFO] [NestFactory] Starting Nest application... 
+2026-01-15T14:08:37.503-03:00 [INFO] [InstanceLoader] AppModule dependencies initialized 
+2026-01-15T14:08:37.504-03:00 [INFO] [InstanceLoader] TypeOrmModule dependencies initialized 
+2026-01-15T14:08:37.504-03:00 [INFO] [InstanceLoader] ConfigHostModule dependencies initialized 
+2026-01-15T14:08:37.504-03:00 [INFO] [InstanceLoader] HttpModule dependencies initialized 
+2026-01-15T14:08:37.505-03:00 [INFO] [InstanceLoader] DiscoveryModule dependencies initialized 
+2026-01-15T14:08:37.514-03:00 [INFO] [InstanceLoader] ConfigModule dependencies initialized 
+2026-01-15T14:08:37.515-03:00 [INFO] [InstanceLoader] ConfigModule dependencies initialized 
+2026-01-15T14:08:37.516-03:00 [INFO] [InstanceLoader] ScheduleModule dependencies initialized 
+2026-01-15T14:08:37.548-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:08:37.549-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:08:37.551-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:08:37.566-03:00 [INFO] [InstanceLoader] CacheModule dependencies initialized 
+2026-01-15T14:08:37.700-03:00 [INFO] [InstanceLoader] TypeOrmCoreModule dependencies initialized 
+2026-01-15T14:08:37.700-03:00 [INFO] [InstanceLoader] TypeOrmModule dependencies initialized 
+2026-01-15T14:08:37.703-03:00 [INFO] [InstanceLoader] LeadsModule dependencies initialized 
+2026-01-15T14:08:37.708-03:00 [INFO] [RoutesResolver] LeadsController {/leads}: 
+2026-01-15T14:08:37.711-03:00 [INFO] [RouterExplorer] Mapped {/leads, POST} route 
+2026-01-15T14:08:37.712-03:00 [INFO] [RouterExplorer] Mapped {/leads, GET} route 
+2026-01-15T14:08:37.713-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id, GET} route 
+2026-01-15T14:08:37.714-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id, PATCH} route 
+2026-01-15T14:08:37.714-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id/summarize, POST} route 
+2026-01-15T14:08:37.735-03:00 [INFO] [NestApplication] Nest application successfully started 
+2026-01-15T14:09:02.907-03:00 [INFO] [NestFactory] Starting Nest application... 
+2026-01-15T14:09:02.923-03:00 [INFO] [InstanceLoader] AppModule dependencies initialized 
+2026-01-15T14:09:02.923-03:00 [INFO] [InstanceLoader] TypeOrmModule dependencies initialized 
+2026-01-15T14:09:02.924-03:00 [INFO] [InstanceLoader] ConfigHostModule dependencies initialized 
+2026-01-15T14:09:02.924-03:00 [INFO] [InstanceLoader] HttpModule dependencies initialized 
+2026-01-15T14:09:02.925-03:00 [INFO] [InstanceLoader] DiscoveryModule dependencies initialized 
+2026-01-15T14:09:02.935-03:00 [INFO] [InstanceLoader] ConfigModule dependencies initialized 
+2026-01-15T14:09:02.935-03:00 [INFO] [InstanceLoader] ConfigModule dependencies initialized 
+2026-01-15T14:09:02.936-03:00 [INFO] [InstanceLoader] ScheduleModule dependencies initialized 
+2026-01-15T14:09:02.957-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:09:02.957-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:09:02.960-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:09:02.971-03:00 [INFO] [InstanceLoader] CacheModule dependencies initialized 
+2026-01-15T14:09:03.078-03:00 [INFO] [InstanceLoader] TypeOrmCoreModule dependencies initialized 
+2026-01-15T14:09:03.078-03:00 [INFO] [InstanceLoader] TypeOrmModule dependencies initialized 
+2026-01-15T14:09:03.080-03:00 [INFO] [InstanceLoader] LeadsModule dependencies initialized 
+2026-01-15T14:09:03.085-03:00 [INFO] [RoutesResolver] LeadsController {/leads}: 
+2026-01-15T14:09:03.088-03:00 [INFO] [RouterExplorer] Mapped {/leads, POST} route 
+2026-01-15T14:09:03.089-03:00 [INFO] [RouterExplorer] Mapped {/leads, GET} route 
+2026-01-15T14:09:03.090-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id, GET} route 
+2026-01-15T14:09:03.090-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id, PATCH} route 
+2026-01-15T14:09:03.091-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id/summarize, POST} route 
+2026-01-15T14:09:03.109-03:00 [INFO] [NestApplication] Nest application successfully started 
+2026-01-15T14:09:29.133-03:00 [INFO] [NestFactory] Starting Nest application... 
+2026-01-15T14:09:29.149-03:00 [INFO] [InstanceLoader] AppModule dependencies initialized 
+2026-01-15T14:09:29.150-03:00 [INFO] [InstanceLoader] TypeOrmModule dependencies initialized 
+2026-01-15T14:09:29.150-03:00 [INFO] [InstanceLoader] ConfigHostModule dependencies initialized 
+2026-01-15T14:09:29.151-03:00 [INFO] [InstanceLoader] HttpModule dependencies initialized 
+2026-01-15T14:09:29.151-03:00 [INFO] [InstanceLoader] DiscoveryModule dependencies initialized 
+2026-01-15T14:09:29.162-03:00 [INFO] [InstanceLoader] ConfigModule dependencies initialized 
+2026-01-15T14:09:29.162-03:00 [INFO] [InstanceLoader] ConfigModule dependencies initialized 
+2026-01-15T14:09:29.163-03:00 [INFO] [InstanceLoader] ScheduleModule dependencies initialized 
+2026-01-15T14:09:29.185-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:09:29.185-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:09:29.187-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:09:29.197-03:00 [INFO] [InstanceLoader] CacheModule dependencies initialized 
+2026-01-15T14:09:29.291-03:00 [INFO] [InstanceLoader] TypeOrmCoreModule dependencies initialized 
+2026-01-15T14:09:29.291-03:00 [INFO] [InstanceLoader] TypeOrmModule dependencies initialized 
+2026-01-15T14:09:29.293-03:00 [INFO] [LeadsProcessor] OpenAI client initialized with API Key. 
+2026-01-15T14:09:29.293-03:00 [INFO] [InstanceLoader] LeadsModule dependencies initialized 
+2026-01-15T14:09:29.298-03:00 [INFO] [RoutesResolver] LeadsController {/leads}: 
+2026-01-15T14:09:29.300-03:00 [INFO] [RouterExplorer] Mapped {/leads, POST} route 
+2026-01-15T14:09:29.301-03:00 [INFO] [RouterExplorer] Mapped {/leads, GET} route 
+2026-01-15T14:09:29.302-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id, GET} route 
+2026-01-15T14:09:29.302-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id, PATCH} route 
+2026-01-15T14:09:29.303-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id/summarize, POST} route 
+2026-01-15T14:09:29.318-03:00 [INFO] [NestApplication] Nest application successfully started 
+2026-01-15T14:10:04.043-03:00 [INFO] [LeadsController] Received request to list all leads 
+2026-01-15T14:10:15.137-03:00 [INFO] [LeadsController] Received request to get lead details for ID: 15c6cfc6-ff8f-47e1-8010-ef00b2a5d5aa 
+2026-01-15T14:10:34.084-03:00 [INFO] [LeadsController] Received request to generate summary for lead ID: 15c6cfc6-ff8f-47e1-8010-ef00b2a5d5aa 
+2026-01-15T14:10:34.085-03:00 [INFO] [LeadsService] Processing summary request for lead 15c6cfc6-ff8f-47e1-8010-ef00b2a5d5aa 
+2026-01-15T14:10:34.133-03:00 [INFO] [LeadsService] Job enqueued for lead 15c6cfc6-ff8f-47e1-8010-ef00b2a5d5aa with Job ID: 2 
+2026-01-15T14:10:34.138-03:00 [INFO] [LeadsProcessor] [Job 2] Started processing: Generating summary for lead 15c6cfc6-ff8f-47e1-8010-ef00b2a5d5aa 
+2026-01-15T14:10:35.959-03:00 [ERROR] [LeadsProcessor] OpenAI API call failed {"stack":["Error: 401 Incorrect API key provided: \\n. You can find your API key at https://platform.openai.com/account/api-keys.\n    at Function.generate (/Users/isaias/Desktop/personal/Projects/contactship-mini/node_modules/openai/src/core/error.ts:76:14)\n    at OpenAI.makeStatusError (/Users/isaias/Desktop/personal/Projects/contactship-mini/node_modules/openai/src/client.ts:478:28)\n    at OpenAI.makeRequest (/Users/isaias/Desktop/personal/Projects/contactship-mini/node_modules/openai/src/client.ts:728:24)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async LeadsProcessor.generateAiSummary (/Users/isaias/Desktop/personal/Projects/contactship-mini/src/leads/leads.processor.ts:66:28)\n    at async LeadsProcessor.process (/Users/isaias/Desktop/personal/Projects/contactship-mini/src/leads/leads.processor.ts:33:22)\n    at async <anonymous> (/Users/isaias/Desktop/personal/Projects/contactship-mini/node_modules/bullmq/src/classes/worker.ts:990:26)"]}
+2026-01-15T14:10:35.959-03:00 [WARN] [LeadsProcessor] Falling back to mock due to API error. 
+2026-01-15T14:10:35.975-03:00 [INFO] [LeadsService] Lead 15c6cfc6-ff8f-47e1-8010-ef00b2a5d5aa updated successfully 
+2026-01-15T14:10:35.978-03:00 [INFO] [LeadsProcessor] [Job 2] Completed successfully. Lead updated. 
+2026-01-15T14:25:56.257-03:00 [INFO] [NestFactory] Starting Nest application... 
+2026-01-15T14:25:56.277-03:00 [INFO] [InstanceLoader] AppModule dependencies initialized 
+2026-01-15T14:25:56.277-03:00 [INFO] [InstanceLoader] TypeOrmModule dependencies initialized 
+2026-01-15T14:25:56.278-03:00 [INFO] [InstanceLoader] ConfigHostModule dependencies initialized 
+2026-01-15T14:25:56.279-03:00 [INFO] [InstanceLoader] HttpModule dependencies initialized 
+2026-01-15T14:25:56.279-03:00 [INFO] [InstanceLoader] DiscoveryModule dependencies initialized 
+2026-01-15T14:25:56.291-03:00 [INFO] [InstanceLoader] ConfigModule dependencies initialized 
+2026-01-15T14:25:56.292-03:00 [INFO] [InstanceLoader] ConfigModule dependencies initialized 
+2026-01-15T14:25:56.293-03:00 [INFO] [InstanceLoader] ScheduleModule dependencies initialized 
+2026-01-15T14:25:56.334-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:25:56.335-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:25:56.337-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:25:56.350-03:00 [INFO] [InstanceLoader] CacheModule dependencies initialized 
+2026-01-15T14:25:56.483-03:00 [INFO] [InstanceLoader] TypeOrmCoreModule dependencies initialized 
+2026-01-15T14:25:56.484-03:00 [INFO] [InstanceLoader] TypeOrmModule dependencies initialized 
+2026-01-15T14:25:56.486-03:00 [INFO] [LeadsProcessor] OpenAI client initialized with API Key. 
+2026-01-15T14:25:56.487-03:00 [INFO] [InstanceLoader] LeadsModule dependencies initialized 
+2026-01-15T14:25:56.496-03:00 [INFO] [RoutesResolver] LeadsController {/leads}: 
+2026-01-15T14:25:56.499-03:00 [INFO] [RouterExplorer] Mapped {/leads, POST} route 
+2026-01-15T14:25:56.500-03:00 [INFO] [RouterExplorer] Mapped {/leads, GET} route 
+2026-01-15T14:25:56.501-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id, GET} route 
+2026-01-15T14:25:56.502-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id, PATCH} route 
+2026-01-15T14:25:56.503-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id/summarize, POST} route 
+2026-01-15T14:25:56.525-03:00 [INFO] [NestApplication] Nest application successfully started 
+2026-01-15T14:26:24.814-03:00 [INFO] [NestFactory] Starting Nest application... 
+2026-01-15T14:26:24.831-03:00 [INFO] [InstanceLoader] AppModule dependencies initialized 
+2026-01-15T14:26:24.831-03:00 [INFO] [InstanceLoader] TypeOrmModule dependencies initialized 
+2026-01-15T14:26:24.832-03:00 [INFO] [InstanceLoader] ConfigHostModule dependencies initialized 
+2026-01-15T14:26:24.833-03:00 [INFO] [InstanceLoader] HttpModule dependencies initialized 
+2026-01-15T14:26:24.833-03:00 [INFO] [InstanceLoader] DiscoveryModule dependencies initialized 
+2026-01-15T14:26:24.845-03:00 [INFO] [InstanceLoader] ConfigModule dependencies initialized 
+2026-01-15T14:26:24.845-03:00 [INFO] [InstanceLoader] ConfigModule dependencies initialized 
+2026-01-15T14:26:24.846-03:00 [INFO] [InstanceLoader] ScheduleModule dependencies initialized 
+2026-01-15T14:26:24.876-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:26:24.876-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:26:24.879-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:26:24.890-03:00 [INFO] [InstanceLoader] CacheModule dependencies initialized 
+2026-01-15T14:26:25.017-03:00 [INFO] [InstanceLoader] TypeOrmCoreModule dependencies initialized 
+2026-01-15T14:26:25.017-03:00 [INFO] [InstanceLoader] TypeOrmModule dependencies initialized 
+2026-01-15T14:26:25.019-03:00 [INFO] [LeadsProcessor] OpenAI client initialized with API Key. 
+2026-01-15T14:26:25.020-03:00 [INFO] [InstanceLoader] LeadsModule dependencies initialized 
+2026-01-15T14:26:25.040-03:00 [INFO] [RoutesResolver] LeadsController {/leads}: 
+2026-01-15T14:26:25.043-03:00 [INFO] [RouterExplorer] Mapped {/leads, POST} route 
+2026-01-15T14:26:25.044-03:00 [INFO] [RouterExplorer] Mapped {/leads, GET} route 
+2026-01-15T14:26:25.045-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id, GET} route 
+2026-01-15T14:26:25.045-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id, PATCH} route 
+2026-01-15T14:26:25.046-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id/summarize, POST} route 
+2026-01-15T14:26:25.068-03:00 [INFO] [NestApplication] Nest application successfully started 
+2026-01-15T14:26:42.709-03:00 [INFO] [NestFactory] Starting Nest application... 
+2026-01-15T14:26:42.727-03:00 [INFO] [InstanceLoader] AppModule dependencies initialized 
+2026-01-15T14:26:42.728-03:00 [INFO] [InstanceLoader] TypeOrmModule dependencies initialized 
+2026-01-15T14:26:42.728-03:00 [INFO] [InstanceLoader] ConfigHostModule dependencies initialized 
+2026-01-15T14:26:42.729-03:00 [INFO] [InstanceLoader] HttpModule dependencies initialized 
+2026-01-15T14:26:42.729-03:00 [INFO] [InstanceLoader] DiscoveryModule dependencies initialized 
+2026-01-15T14:26:42.741-03:00 [INFO] [InstanceLoader] ConfigModule dependencies initialized 
+2026-01-15T14:26:42.741-03:00 [INFO] [InstanceLoader] ConfigModule dependencies initialized 
+2026-01-15T14:26:42.742-03:00 [INFO] [InstanceLoader] ScheduleModule dependencies initialized 
+2026-01-15T14:26:42.763-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:26:42.764-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:26:42.767-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:26:42.783-03:00 [INFO] [InstanceLoader] CacheModule dependencies initialized 
+2026-01-15T14:26:42.905-03:00 [INFO] [InstanceLoader] TypeOrmCoreModule dependencies initialized 
+2026-01-15T14:26:42.905-03:00 [INFO] [InstanceLoader] TypeOrmModule dependencies initialized 
+2026-01-15T14:26:42.907-03:00 [INFO] [LeadsProcessor] OpenAI client initialized with API Key. 
+2026-01-15T14:26:42.908-03:00 [INFO] [InstanceLoader] LeadsModule dependencies initialized 
+2026-01-15T14:26:42.928-03:00 [INFO] [RoutesResolver] LeadsController {/leads}: 
+2026-01-15T14:26:42.931-03:00 [INFO] [RouterExplorer] Mapped {/leads, POST} route 
+2026-01-15T14:26:42.932-03:00 [INFO] [RouterExplorer] Mapped {/leads, GET} route 
+2026-01-15T14:26:42.934-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id, GET} route 
+2026-01-15T14:26:42.934-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id, PATCH} route 
+2026-01-15T14:26:42.935-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id/summarize, POST} route 
+2026-01-15T14:26:42.957-03:00 [INFO] [NestApplication] Nest application successfully started 
+2026-01-15T14:27:00.482-03:00 [INFO] [NestFactory] Starting Nest application... 
+2026-01-15T14:27:00.502-03:00 [INFO] [InstanceLoader] AppModule dependencies initialized 
+2026-01-15T14:27:00.503-03:00 [INFO] [InstanceLoader] TypeOrmModule dependencies initialized 
+2026-01-15T14:27:00.503-03:00 [INFO] [InstanceLoader] ConfigHostModule dependencies initialized 
+2026-01-15T14:27:00.504-03:00 [INFO] [InstanceLoader] HttpModule dependencies initialized 
+2026-01-15T14:27:00.504-03:00 [INFO] [InstanceLoader] DiscoveryModule dependencies initialized 
+2026-01-15T14:27:00.516-03:00 [INFO] [InstanceLoader] ConfigModule dependencies initialized 
+2026-01-15T14:27:00.517-03:00 [INFO] [InstanceLoader] ConfigModule dependencies initialized 
+2026-01-15T14:27:00.518-03:00 [INFO] [InstanceLoader] ScheduleModule dependencies initialized 
+2026-01-15T14:27:00.551-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:27:00.552-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:27:00.555-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:27:00.567-03:00 [INFO] [InstanceLoader] CacheModule dependencies initialized 
+2026-01-15T14:27:00.704-03:00 [INFO] [InstanceLoader] TypeOrmCoreModule dependencies initialized 
+2026-01-15T14:27:00.704-03:00 [INFO] [InstanceLoader] TypeOrmModule dependencies initialized 
+2026-01-15T14:27:00.706-03:00 [INFO] [LeadsProcessor] OpenAI client initialized with API Key. 
+2026-01-15T14:27:00.707-03:00 [INFO] [InstanceLoader] LeadsModule dependencies initialized 
+2026-01-15T14:27:00.730-03:00 [INFO] [RoutesResolver] LeadsController {/leads}: 
+2026-01-15T14:27:00.734-03:00 [INFO] [RouterExplorer] Mapped {/leads, POST} route 
+2026-01-15T14:27:00.735-03:00 [INFO] [RouterExplorer] Mapped {/leads, GET} route 
+2026-01-15T14:27:00.736-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id, GET} route 
+2026-01-15T14:27:00.736-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id, PATCH} route 
+2026-01-15T14:27:00.737-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id/summarize, POST} route 
+2026-01-15T14:27:00.762-03:00 [INFO] [NestApplication] Nest application successfully started 
+2026-01-15T14:27:21.456-03:00 [INFO] [NestFactory] Starting Nest application... 
+2026-01-15T14:27:21.472-03:00 [INFO] [InstanceLoader] AppModule dependencies initialized 
+2026-01-15T14:27:21.473-03:00 [INFO] [InstanceLoader] TypeOrmModule dependencies initialized 
+2026-01-15T14:27:21.473-03:00 [INFO] [InstanceLoader] ConfigHostModule dependencies initialized 
+2026-01-15T14:27:21.474-03:00 [INFO] [InstanceLoader] HttpModule dependencies initialized 
+2026-01-15T14:27:21.474-03:00 [INFO] [InstanceLoader] DiscoveryModule dependencies initialized 
+2026-01-15T14:27:21.483-03:00 [INFO] [InstanceLoader] ConfigModule dependencies initialized 
+2026-01-15T14:27:21.483-03:00 [INFO] [InstanceLoader] ConfigModule dependencies initialized 
+2026-01-15T14:27:21.484-03:00 [INFO] [InstanceLoader] ScheduleModule dependencies initialized 
+2026-01-15T14:27:21.514-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:27:21.514-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:27:21.517-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:27:21.530-03:00 [INFO] [InstanceLoader] CacheModule dependencies initialized 
+2026-01-15T14:27:21.658-03:00 [INFO] [InstanceLoader] TypeOrmCoreModule dependencies initialized 
+2026-01-15T14:27:21.658-03:00 [INFO] [InstanceLoader] TypeOrmModule dependencies initialized 
+2026-01-15T14:27:21.660-03:00 [INFO] [LeadsProcessor] OpenAI client initialized with API Key. 
+2026-01-15T14:27:21.661-03:00 [INFO] [InstanceLoader] LeadsModule dependencies initialized 
+2026-01-15T14:27:21.682-03:00 [INFO] [RoutesResolver] LeadsController {/leads}: 
+2026-01-15T14:27:21.686-03:00 [INFO] [RouterExplorer] Mapped {/leads, POST} route 
+2026-01-15T14:27:21.686-03:00 [INFO] [RouterExplorer] Mapped {/leads, GET} route 
+2026-01-15T14:27:21.687-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id, GET} route 
+2026-01-15T14:27:21.688-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id, PATCH} route 
+2026-01-15T14:27:21.688-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id/summarize, POST} route 
+2026-01-15T14:27:21.712-03:00 [INFO] [NestApplication] Nest application successfully started 
+2026-01-15T14:28:43.593-03:00 [INFO] [LeadsController] Received request to list all leads 
+2026-01-15T14:28:50.726-03:00 [INFO] [LeadsController] Received request to get lead details for ID: 15c6cfc6-ff8f-47e1-8010-ef00b2a5d5aa 
+2026-01-15T14:28:58.423-03:00 [INFO] [LeadsController] Received request to generate summary for lead ID: 15c6cfc6-ff8f-47e1-8010-ef00b2a5d5aa 
+2026-01-15T14:28:58.423-03:00 [INFO] [LeadsService] Processing summary request for lead 15c6cfc6-ff8f-47e1-8010-ef00b2a5d5aa 
+2026-01-15T14:28:58.432-03:00 [INFO] [LeadsService] Job enqueued for lead 15c6cfc6-ff8f-47e1-8010-ef00b2a5d5aa with Job ID: 3 
+2026-01-15T14:28:58.436-03:00 [INFO] [LeadsProcessor] [Job 3] Started processing: Generating summary for lead 15c6cfc6-ff8f-47e1-8010-ef00b2a5d5aa 
+2026-01-15T14:29:00.210-03:00 [ERROR] [LeadsProcessor] OpenAI API call failed {"stack":["Error: 401 Incorrect API key provided: \\n. You can find your API key at https://platform.openai.com/account/api-keys.\n    at Function.generate (/Users/isaias/Desktop/personal/Projects/contactship-mini/node_modules/openai/src/core/error.ts:76:14)\n    at OpenAI.makeStatusError (/Users/isaias/Desktop/personal/Projects/contactship-mini/node_modules/openai/src/client.ts:478:28)\n    at OpenAI.makeRequest (/Users/isaias/Desktop/personal/Projects/contactship-mini/node_modules/openai/src/client.ts:728:24)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async LeadsProcessor.generateAiSummary (/Users/isaias/Desktop/personal/Projects/contactship-mini/src/leads/leads.processor.ts:66:28)\n    at async LeadsProcessor.process (/Users/isaias/Desktop/personal/Projects/contactship-mini/src/leads/leads.processor.ts:33:22)\n    at async <anonymous> (/Users/isaias/Desktop/personal/Projects/contactship-mini/node_modules/bullmq/src/classes/worker.ts:990:26)"]}
+2026-01-15T14:29:00.211-03:00 [WARN] [LeadsProcessor] Falling back to mock due to API error. 
+2026-01-15T14:29:00.220-03:00 [INFO] [LeadsService] Lead 15c6cfc6-ff8f-47e1-8010-ef00b2a5d5aa updated successfully 
+2026-01-15T14:29:00.222-03:00 [INFO] [LeadsProcessor] [Job 3] Completed successfully. Lead updated. 
+2026-01-15T14:32:37.040-03:00 [INFO] [NestFactory] Starting Nest application... 
+2026-01-15T14:32:37.056-03:00 [INFO] [InstanceLoader] AppModule dependencies initialized 
+2026-01-15T14:32:37.057-03:00 [INFO] [InstanceLoader] TypeOrmModule dependencies initialized 
+2026-01-15T14:32:37.057-03:00 [INFO] [InstanceLoader] ConfigHostModule dependencies initialized 
+2026-01-15T14:32:37.058-03:00 [INFO] [InstanceLoader] HttpModule dependencies initialized 
+2026-01-15T14:32:37.058-03:00 [INFO] [InstanceLoader] DiscoveryModule dependencies initialized 
+2026-01-15T14:32:37.083-03:00 [INFO] [InstanceLoader] ConfigModule dependencies initialized 
+2026-01-15T14:32:37.084-03:00 [INFO] [InstanceLoader] ConfigModule dependencies initialized 
+2026-01-15T14:32:37.084-03:00 [INFO] [InstanceLoader] ScheduleModule dependencies initialized 
+2026-01-15T14:32:37.116-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:32:37.117-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:32:37.119-03:00 [INFO] [InstanceLoader] BullModule dependencies initialized 
+2026-01-15T14:32:37.129-03:00 [INFO] [InstanceLoader] CacheModule dependencies initialized 
+2026-01-15T14:32:37.252-03:00 [INFO] [InstanceLoader] TypeOrmCoreModule dependencies initialized 
+2026-01-15T14:32:37.252-03:00 [INFO] [InstanceLoader] TypeOrmModule dependencies initialized 
+2026-01-15T14:32:37.256-03:00 [INFO] [LeadsProcessor] OpenAI client initialized with API Key. 
+2026-01-15T14:32:37.257-03:00 [INFO] [InstanceLoader] LeadsModule dependencies initialized 
+2026-01-15T14:32:37.304-03:00 [INFO] [RoutesResolver] LeadsController {/leads}: 
+2026-01-15T14:32:37.308-03:00 [INFO] [RouterExplorer] Mapped {/leads, POST} route 
+2026-01-15T14:32:37.309-03:00 [INFO] [RouterExplorer] Mapped {/leads, GET} route 
+2026-01-15T14:32:37.309-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id, GET} route 
+2026-01-15T14:32:37.310-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id/summarize, POST} route 
+2026-01-15T14:32:37.333-03:00 [INFO] [NestApplication] Nest application successfully started 
