@@ -253,3 +253,5 @@
 2026-01-15T14:32:37.309-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id, GET} route 
 2026-01-15T14:32:37.310-03:00 [INFO] [RouterExplorer] Mapped {/leads/:id/summarize, POST} route 
 2026-01-15T14:32:37.333-03:00 [INFO] [NestApplication] Nest application successfully started 
+2026-01-15T15:00:00.192-03:00 [INFO] [LeadsService] Starting CRON: External leads synchronization... 
+2026-01-15T15:00:02.089-03:00 [INFO] [LeadsService] Synchronization complete. Imported: 10, Skipped (Duplicate): 0 
