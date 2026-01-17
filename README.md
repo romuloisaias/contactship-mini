@@ -35,7 +35,7 @@ Microservicio de gestión de leads con sincronización automática, soporte de I
 
 La API está protegida por una API Key. Debe enviarse en los headers de cada petición.
 Por defecto en el `.env` provisto:
-`x-api-key: xxxxxxxxxxxxxxxxxxxxxxxx`
+`x-api-key: test_api_keyAFx-NhzdV<tNnpSEC~ZBeTS~DVR>m7)f`
 
 ## 📡 Endpoints Principales
 
